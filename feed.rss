@@ -1,72 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[ My Blog ]]></title>
+    <title><![CDATA[ Evan&#39;s Blog ]]></title>
     <link>https://evanhstanton.github.io</link>
     <atom:link href="https://evanhstanton.github.io/feed.rss" rel="self" type="application/rss+xml"/>
-    <description><![CDATA[ The feed of updates to My Blog ]]></description>
+    <description><![CDATA[ The feed of updates to Evan&#39;s Blog ]]></description>
     <item>
-  <title><![CDATA[ Using Mermaid Diagrams ]]></title>
-  <link>https://evanhstanton.github.io/mermaid-diagrams</link>
-  <guid isPermaLink="false">bic_mpRn5XPZ0j3KbJG3Wq8DEOk2JVyA</guid>
-  <pubDate>Mon, 21 Feb 2022 20:56:21 -0600</pubDate>
-  <description><![CDATA[ <p><a href="https://github.com/mermaid-js/mermaid">Mermaid</a> diagrams<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> rendered client-side in your static blog.</p>
-<pre class="mermaid"><code>graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;</code></pre>
-<p>And here’s another, to prove enumeration is a thing.</p>
-<pre class="mermaid"><code>sequenceDiagram
-    autonumber
-    Alice-&gt;&gt;John: Hello John, how are you?
-    loop Healthcheck
-        John-&gt;&gt;John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John--&gt;&gt;Alice: Great!
-    John-&gt;&gt;Bob: How about you?
-    Bob--&gt;&gt;John: Jolly good!</code></pre>
-<p>These are taken from the GitHub announcement: <a href="https://github.com/github/roadmap/issues/372" class="uri">https://github.com/github/roadmap/issues/372</a></p>
-<p>Don’t forget there’s a <a href="/drafts/untitled">draft you can view</a> in this demo.</p>
-<section class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1" role="doc-endnote"><p>Also, footnotes are a thing. :)<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section> ]]></description>
-</item>
-<item>
-  <title><![CDATA[ A 2nd Post ]]></title>
-  <link>https://evanhstanton.github.io/foo-bar</link>
-  <guid isPermaLink="false">bic_aQRxJnOBp40lWzlQrL19ZgXwzVmE</guid>
-  <pubDate>Fri, 12 Feb 2021 00:34:32 -0600</pubDate>
-  <description><![CDATA[ <p>And here’s a 2nd post in this minimal blog.</p>
-<pre class="js"><code>console.log(&quot;👋&quot;)</code></pre>
-<h2 id="subsection-with-some-spaces-and-emoji--to-test-anchor-ids">Subsection with some spaces and emoji 👋 to test anchor IDs</h2>
-<p>With some more text.</p>
-<p>Bare URL: <a href="http://example.com" class="uri">http://example.com</a></p>
-<p>And some braces: {{key}}</p>
-<p>A list:</p>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-unchecked</li>
-<li><input type="checkbox" disabled="" checked="" />
-checked</li>
-</ul>
-<h3 id="h3-header">H3 Header</h3>
-<p>And some text.</p>
-<pre class="diff"><code>- rm -rf /
-+ rm -rf / --no-preserve-root</code></pre>
-<h4 id="all">All</h4>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At maxime natus nesciunt! Reiciendis illo nobis fuga repellat, ipsam vitae laudantium provident minus natus enim modi veritatis asperiores architecto. Quia, iste!</p>
-<h5 id="the">the</h5>
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus numquam repudiandae quisquam explicabo ullam rem voluptatum, ut molestiae eaque ratione pariatur cumque quae saepe reprehenderit ex sapiente. Perspiciatis, placeat sint.</p>
-<p>Et amet molestiae tempora fugiat omnis magni laborum similique nobis porro iusto quasi, eius nam corrupti inventore nemo rem facilis praesentium sit. Numquam, nostrum? Quas culpa accusamus illo sunt pariatur?</p>
-<h6 id="way">way</h6>
-<p>down. 🙃</p> ]]></description>
-</item>
-<item>
   <title><![CDATA[ Hello, world! ]]></title>
   <link>https://evanhstanton.github.io/hello-world</link>
   <guid isPermaLink="false">bic_yL5PGnOBq0AZvVK8raN831YpxmMR</guid>
