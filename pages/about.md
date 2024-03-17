@@ -1,10 +1,7 @@
 # About
 
-This is an "about me" page with perhaps a brief bio.
+Hi there!
+My name is Evan and I'm a neuroscientist-turned software engineer.
 
-Maybe even a photo?
+This is my personal nook on the internet where I share interests, protocols, and more!
 
-![Speaker.](img/photo.jpg)
-
-Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur) (that's me 👋) on
-[Unsplash](https://unsplash.com/@pinjasaur).
