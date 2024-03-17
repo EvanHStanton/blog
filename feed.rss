@@ -2,12 +2,12 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title><![CDATA[ My Blog ]]></title>
-    <link>https://evanhstanton.github.io/blog</link>
-    <atom:link href="https://evanhstanton.github.io/blog/feed.rss" rel="self" type="application/rss+xml"/>
+    <link>https://evanhstanton.github.io</link>
+    <atom:link href="https://evanhstanton.github.io/feed.rss" rel="self" type="application/rss+xml"/>
     <description><![CDATA[ The feed of updates to My Blog ]]></description>
     <item>
   <title><![CDATA[ Using Mermaid Diagrams ]]></title>
-  <link>https://evanhstanton.github.io/blog/mermaid-diagrams</link>
+  <link>https://evanhstanton.github.io/mermaid-diagrams</link>
   <guid isPermaLink="false">bic_mpRn5XPZ0j3KbJG3Wq8DEOk2JVyA</guid>
   <pubDate>Mon, 21 Feb 2022 20:56:21 -0600</pubDate>
   <description><![CDATA[ <p><a href="https://github.com/mermaid-js/mermaid">Mermaid</a> diagrams<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> rendered client-side in your static blog.</p>
@@ -38,7 +38,7 @@
 </item>
 <item>
   <title><![CDATA[ A 2nd Post ]]></title>
-  <link>https://evanhstanton.github.io/blog/foo-bar</link>
+  <link>https://evanhstanton.github.io/foo-bar</link>
   <guid isPermaLink="false">bic_aQRxJnOBp40lWzlQrL19ZgXwzVmE</guid>
   <pubDate>Fri, 12 Feb 2021 00:34:32 -0600</pubDate>
   <description><![CDATA[ <p>And here’s a 2nd post in this minimal blog.</p>
@@ -68,7 +68,7 @@ checked</li>
 </item>
 <item>
   <title><![CDATA[ Hello, world! ]]></title>
-  <link>https://evanhstanton.github.io/blog/hello-world</link>
+  <link>https://evanhstanton.github.io/hello-world</link>
   <guid isPermaLink="false">bic_yL5PGnOBq0AZvVK8raN831YpxmMR</guid>
   <pubDate>Sat, 23 Jan 2021 17:56:25 -0600</pubDate>
   <description><![CDATA[ <p>A first example post!</p>

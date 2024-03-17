@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://evanhstanton.github.io/blog</loc>
+    <loc>https://evanhstanton.github.io</loc>
   </url>
   <url>
-    <loc>https://evanhstanton.github.io/blog/about</loc>
+    <loc>https://evanhstanton.github.io/about</loc>
   </url>
   <url>
-    <loc>https://evanhstanton.github.io/blog/mermaid-diagrams</loc>
+    <loc>https://evanhstanton.github.io/mermaid-diagrams</loc>
   </url>
   <url>
-    <loc>https://evanhstanton.github.io/blog/foo-bar</loc>
+    <loc>https://evanhstanton.github.io/foo-bar</loc>
   </url>
   <url>
-    <loc>https://evanhstanton.github.io/blog/hello-world</loc>
+    <loc>https://evanhstanton.github.io/hello-world</loc>
   </url>
 </urlset>

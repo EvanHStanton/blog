@@ -1,1 +1,1 @@
-Sitemap: https://evanhstanton.github.io/blog/sitemap.xml
+Sitemap: https://evanhstanton.github.io/sitemap.xml
