@@ -36,5 +36,5 @@ Being something of a scientist myself, I've found that one of the most important
 
 ## Blogs
 
-- https://fossen.dev/
+- [fossen.dev](https://fossen.dev/)
 - https://tauganet.is/
