@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>All posts | Evan&#39;s Blog</title>
+  <title>Search | Evan&#39;s Blog</title>
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for Evan&#39;s Blog" href="/feed.rss">
   <link rel="stylesheet" href="https://unpkg.com/sanitize.css@^12.0.1/evergreen.css">
   <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
@@ -23,25 +23,38 @@
     </nav>
   </header>
 
-  <main>
-    <h2>Posts</h2>
-    <small>In reverse-chronological order.</small>
-    <ul>
-      <li>
-  <a href="/pagefind-integration">Static Site Searching with Pagefind!</a><br>
-  <small>Last modified August 03, 2024</small>
-</li>
-<li>
-  <a href="/tags-announcement">Support for Tags</a><br>
-  <small>Last modified July 14, 2024</small>
-</li>
-<li>
-  <a href="/hello-world">Hello world,</a><br>
-  <small>Last modified September 07, 2024</small>
-</li>
+  <main data-pagefind-body>
+    <article>
+      <h1>Search</h1>
+      <hr>
 
-    </ul>
-    <p><small>View the source: <a href="https://github.com/Pinjasaur/bic-example" target="_blank" rel="noopener">Pinjasaur/bic-example</a>.</small></p>
+      <!-- https://pagefind.app/docs/ -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search">
+
+</div>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      autofocus: true,
+      // Strip .html from URLs
+      processResult: function (result) {
+        const stripHtmlExt = url => url.replaceAll(/\.html/g, "")
+        result.url = stripHtmlExt(result.url)
+        if (result.sub_results)
+          result.sub_results = result.sub_results.map(sub_result => {
+            sub_result.url = stripHtmlExt(sub_result.url)
+            return sub_result
+          })
+        return result
+      }
+    });
+  });
+</script>
+    </article>
   </main>
 
   <footer>

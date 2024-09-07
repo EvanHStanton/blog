@@ -6,6 +6,26 @@
     <atom:link href="https://evanhstanton.github.io/feed.rss" rel="self" type="application/rss+xml"/>
     <description><![CDATA[ The feed of updates to Evan&#39;s Blog ]]></description>
     <item>
+  <title><![CDATA[ Static Site Searching with Pagefind! ]]></title>
+  <link>https://evanhstanton.github.io/pagefind-integration</link>
+  <guid isPermaLink="false">bic_E86hxLZ9ck8reBm0UyPW6j1V2vbl</guid>
+  <pubDate>Sat, 03 Aug 2024 22:10:30 +0000</pubDate>
+  <description><![CDATA[ <p>Great news, I tried out integrating <a href="https://pagefind.app/">Pagefind</a> on this demo site and it works pretty slick. Needed to do a bit of config to correctly set up dark mode UI and some overrides on some existing styling, but otherwise it was pretty seamless.</p>
+<p>It’s configured to index pages and posts. Not drafts or other static content.</p>
+<p>To try it, head over to the <a href="/search">Search page</a>.</p>
+<p>🎉</p> ]]></description>
+</item>
+<item>
+  <title><![CDATA[ Support for Tags ]]></title>
+  <link>https://evanhstanton.github.io/tags-announcement</link>
+  <guid isPermaLink="false">bic_VtSXmZF31wYIqpkviO5nCzBW2Eyj</guid>
+  <pubDate>Sun, 14 Jul 2024 19:31:12 +0000</pubDate>
+  <description><![CDATA[ <p>Tags are now supported!</p>
+<p><a href="https://github.com/Pinjasaur/bic/pull/18" class="uri">https://github.com/Pinjasaur/bic/pull/18</a></p>
+<p>You can enumerate all tags on an entry, as seen below.</p>
+<p>Additionally, you can view all the tags for the site at <a href="/tags">/tags</a>.</p> ]]></description>
+</item>
+<item>
   <title><![CDATA[ Hello world, ]]></title>
   <link>https://evanhstanton.github.io/hello-world</link>
   <guid isPermaLink="false">bic_ATas1igzRC6Gs0DnXbv9haf48ojc</guid>
