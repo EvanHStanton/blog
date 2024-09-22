@@ -9,7 +9,7 @@
   <title><![CDATA[ Brain Health ]]></title>
   <link>https://evanhstanton.github.io/brain-health-pt1</link>
   <guid isPermaLink="false">bic_OzhJLhNcSbfeDK7HiYmCBA89yxzg</guid>
-  <pubDate>Sun, 22 Sep 2024 20:22:16 +0000</pubDate>
+  <pubDate>Sun, 22 Sep 2024 20:33:04 +0000</pubDate>
   <description><![CDATA[ <p>Like most of you, I try to be resource conscious whenever possible; sometimes I do a good job and other times not so much. But hey, I try to focus not so much on perfection, but rather the pursuit of perfection.</p>
 <p>During my previous professional life as a neuroscience researcher, I gained steady exposure to concepts and systems relating to health and wellness. It’s true that there’s a difference between knowing and understanding, and having made such a transition into tech, it’s clear that there are things the other fields are simply not aware of. Take code repository platforms, for example - academics just tend not to have accounts on <a href="https://github.com/">GitHub</a>, <a href="https://about.gitlab.com/">GitLab</a>, or <a href="https://codeberg.org/">Codeberg</a>. Bash scripting, containers, and languages other than python or R? For the most part, forget about it. The same can be said of the tech community and their awareness of some biological concepts that affect their daily lives.</p>
 <p>Considering this, I feel I have the opportunity to share some of my learnings and not only explain why the brain is a <strong>very</strong> valuable resource, but express how I feel that it is being mistreated.</p>
@@ -29,12 +29,12 @@
 <p>A lot happens when we sleep, for example memory allocation (Brodt et al., 2023), but for now I’ll focus moreso on brain waste clearance.</p>
 <h2 id="biological-underpinnings">Biological underpinnings</h2>
 <p>Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; Kroesbergen et al., 2024).</p>
-<p>You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer’s disease, traumatic brain injury, and more (Jessen et al., 2015).</p>
+<p>You see, the brain (cerebral) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer’s disease, traumatic brain injury, and more (Jessen et al., 2015).</p>
 <p>This is by no means a stagnant system. Indeed, there are many things that either help or hurt it. Here’s a non-exhaustive list:</p>
 <table>
 <thead>
 <tr>
-<th>Good for Clearnace</th>
+<th>Good for Clearance</th>
 <th>Bad for Clearance</th>
 </tr>
 </thead>
