@@ -25,20 +25,16 @@ A lot happens when we sleep, for example memory allocation (Brodt et al., 2023),
 
 ## Biological underpinnings
 
-Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; Kroesbergen et al., 2024). Things get more interesting when you consider that it's not limited to clearance, but includes metabolite transport as well (CITE).
+Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; Kroesbergen et al., 2024).
 
-You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (CITE).
+You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (Jessen et al., 2015).
 
 This is by no means a stagnant system. Indeed, there are many things that either help or hurt it. Here’s a non-exhaustive list: 
 
-| Good for Clearnace       | Bad for Clearance                      |
-| ------------------------ | -------------------------------------- |
-| Sleep (CITE)             | Sleep fragmentation (CITE)             |
-| Exercise (CITE)          | Chronic mental stress (CITE)           |
-| Low acute alcohol (CITE) | High acute/Low chronic alcohol (CITE)  |
-
-**Table 1:** Description.
-
+| Good for Clearnace                                            | Bad for Clearance                                         |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| Sleep                                                         | Sleep fragmentation (Chong et al., 2022)                  |
+| Exercise (von Holstein-Rathlou, Petersen, & Nedergaard, 2018) | Chronic stress (reviewed by Hablitz and Nedergaard, 2021) |
 
 To keep things managably short, here's a video I recommend on the subject: [https://www.youtube.com/watch?v=7dmi1bsrsLk](https://www.youtube.com/watch?v=7dmi1bsrsLk). That said, if you're looking for something more substantial I'd recommend the work by Rasmussen, Mestre, and Nedergaard (2022).
 
@@ -64,11 +60,15 @@ Bohr, T., Hjorth, P. G., Holst, S. C., Hrabětová, S., Kiviniemi, V., Lilius, T
 
 Brodt, S., Inostroza, M., Niethard, N., & Born, J. (2023). Sleep-A brain-state serving systems memory consolidation. Neuron, 111(7), 1050–1075. https://doi.org/10.1016/j.neuron.2023.03.005
 
+Chong, P. L. H., Garic, D., Shen, M. D., Lundgaard, I., & Schwichtenberg, A. J. (2022). Sleep, cerebrospinal fluid, and the glymphatic system: A systematic review. Sleep medicine reviews, 61, 101572. https://doi.org/10.1016/j.smrv.2021.101572
+
 Deng, S., Hu, Y., Chen, S., Xue, Y., Yao, D., Sun, Q., Nedergaard, M., Wang, W., & Ding, F. (2024). Chronic sleep fragmentation impairs brain interstitial clearance in young wildtype mice. Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism, 44(9), 1515–1531. https://doi.org/10.1177/0271678X241230188
 
 Hablitz, L. M., Plá, V., Giannetto, M., Vinitsky, H. S., Stæger, F. F., Metcalfe, T., Nguyen, R., Benrais, A., & Nedergaard, M. (2020). Circadian control of brain glymphatic and lymphatic fluid flow. Nature communications, 11(1), 4411. https://doi.org/10.1038/s41467-020-18115-2
 
 Hablitz, L. M., & Nedergaard, M. (2021). The Glymphatic System: A Novel Component of Fundamental Neurobiology. The Journal of neuroscience : the official journal of the Society for Neuroscience, 41(37), 7698–7711. https://doi.org/10.1523/JNEUROSCI.0619-21.2021
+
+Jessen, N. A., Munk, A. S., Lundgaard, I., & Nedergaard, M. (2015). The Glymphatic System: A Beginner's Guide. Neurochemical research, 40(12), 2583–2599. https://doi.org/10.1007/s11064-015-1581-6
 
 Kroesbergen, E., Riesselmann, L. V., Gomolka, R. S., Plá, V., Esmail, T., Stenmo, V. H., Kovács, E. R., Nielsen, E. S., Goldman, S. A., Nedergaard, M., Weikop, P., & Mori, Y. (2024). Glymphatic clearance is enhanced during sleep. bioRxiv 2024.08.24.609514; doi: https://doi.org/10.1101/2024.08.24.609514
 
