@@ -31,11 +31,13 @@ You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named t
 
 This is by no means a stagnant system. Indeed, there are many things that either help or hurt it. Here’s a non-exhaustive list: 
 
-Good for Clearnace | Bad for Clearance
+| Good for Clearnace       | Bad for Clearance                      |
+| ------------------------ | -------------------------------------- |
+| Sleep (CITE)             | Sleep fragmentation (CITE)             |
+| Exercise (CITE)          | Chronic mental stress (CITE)           |
+| Low acute alcohol (CITE) | High acute/Low chronic alcohol (CITE)  |
 
-sleep (CITE)                    sleep fragmentation (CITE)
-exercise (CITE)                 chronic mental stress (CITE)
-small amount of alcohol (CITE)  lots of alcohol (CITE)
+**Table 1:** Description.
 
 
 To keep things managably short, here's a video I recommend on the subject: [https://www.youtube.com/watch?v=7dmi1bsrsLk](https://www.youtube.com/watch?v=7dmi1bsrsLk). That said, if you're looking for something more substantial I'd recommend the work by Rasmussen, Mestre, and Nedergaard (2022).
