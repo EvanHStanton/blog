@@ -25,9 +25,9 @@ A lot happens when we sleep, for example memory allocation (Brodt et al., 2023),
 
 ## Biological underpinnings
 
-Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; NEW NOT PEER REVIEWED CITATION). Things get more interesting when you consider that it's not limited to clearance, but includes metabolite transport as well (CITE).
+Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; Kroesbergen et al., 2024). Things get more interesting when you consider that it's not limited to clearance, but includes metabolite transport as well (CITE).
 
-You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid, which is anyways mostly water (CITE). It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (CITE).
+You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (CITE).
 
 This is by no means a stagnant system. Indeed, there are many things that either help or hurt it. Here’s a non-exhaustive list: 
 
@@ -38,12 +38,11 @@ exercise (CITE)                 chronic mental stress (CITE)
 small amount of alcohol (CITE)  lots of alcohol (CITE)
 
 
-To keep things managably short, here's a video I recommend on the subject: [https://www.youtube.com/watch?v=7dmi1bsrsLk](https://www.youtube.com/watch?v=7dmi1bsrsLk)
-
+To keep things managably short, here's a video I recommend on the subject: [https://www.youtube.com/watch?v=7dmi1bsrsLk](https://www.youtube.com/watch?v=7dmi1bsrsLk). That said, if you're looking for something more substantial I'd recommend the work by Rasmussen, Mestre, and Nedergaard (2022).
 
 ## Relationship to industry
 
-It's important to me that I prefane this section by emphasizing that I’m not here to tell you that you’re doing things the right or the wrong way. Instead, I wanted to offer you some potentially relevant information that you might not have been aware of. That, and to tie things back to the beginning, explain what I meant when I stated I feel there is a valuable resource is being mistreated.
+It's important to me that I preface this section by emphasizing that I’m not here to tell you that you’re doing things the right or the wrong way. Instead, I wanted to offer you some potentially relevant information that you might not have been aware of. That, and to tie things back to the beginning, explain what I meant when I stated I feel there is a valuable resource is being mistreated.
 
 Our brains are the only ones we’ve got, and in today’s high-tech, fast-paced society, it’s incredibly easy to treat it as a second class citizen; even blame it for not working the way we’d like it to.
 
@@ -51,13 +50,15 @@ Each business or team has their own cultures, rituals, and status quos in place,
 
 Sometimes long hours and trudging along while incredibly stressed is viewed as heroic, when in reality it can be damaging – I mentioned sleep fragmentation and chronic stress as major debilitators of brain waste clearance.
 
-OThis isn’t meant to be catch-all – some people can get away with lower sleep. Instead, the point is to be aware of these things, and to be aware of industry standards, and where the two overlap for the better or the worse.
+This isn’t meant to be catch-all – some people can get away with lower sleep. Instead, the point is to be aware of these things, and to be aware of industry standards, and where the two overlap for the better or the worse.
 
 So take care of yourself, take care of your team, take care of your employees, and if you haven’t heard of or read the Lorax, by Dr. Seuss, I strongly recommend it – so with that I’ll conclude with a question:
 
 What would the Lorax say?
 
 ## References
+
+Bohr, T., Hjorth, P. G., Holst, S. C., Hrabětová, S., Kiviniemi, V., Lilius, T., Lundgaard, I., Mardal, K. A., Martens, E. A., Mori, Y., Nägerl, U. V., Nicholson, C., Tannenbaum, A., Thomas, J. H., Tithof, J., Benveniste, H., Iliff, J. J., Kelley, D. H., & Nedergaard, M. (2022). The glymphatic system: Current understanding and modeling. iScience, 25(9), 104987. https://doi.org/10.1016/j.isci.2022.104987
 
 Brodt, S., Inostroza, M., Niethard, N., & Born, J. (2023). Sleep-A brain-state serving systems memory consolidation. Neuron, 111(7), 1050–1075. https://doi.org/10.1016/j.neuron.2023.03.005
 
@@ -67,36 +68,11 @@ Hablitz, L. M., Plá, V., Giannetto, M., Vinitsky, H. S., Stæger, F. F., Metcal
 
 Hablitz, L. M., & Nedergaard, M. (2021). The Glymphatic System: A Novel Component of Fundamental Neurobiology. The Journal of neuroscience : the official journal of the Society for Neuroscience, 41(37), 7698–7711. https://doi.org/10.1523/JNEUROSCI.0619-21.2021
 
+Kroesbergen, E., Riesselmann, L. V., Gomolka, R. S., Plá, V., Esmail, T., Stenmo, V. H., Kovács, E. R., Nielsen, E. S., Goldman, S. A., Nedergaard, M., Weikop, P., & Mori, Y. (2024). Glymphatic clearance is enhanced during sleep. bioRxiv 2024.08.24.609514; doi: https://doi.org/10.1101/2024.08.24.609514
+
 Rasmussen, M. K., Mestre, H., & Nedergaard, M. (2022). Fluid transport in the brain. Physiological reviews, 102(2), 1025–1151. https://doi.org/10.1152/physrev.00031.2020
+
+The Picower Institute for Learning and Memory. (2023, November 1). Maiken Nedergaard at the MIT Aging Brain Initiative Symposium [Video]. YouTube. https://www.youtube.com/watch?v=7dmi1bsrsLk&ab_channel=ThePicowerInstituteforLearningandMemory
 
 von Holstein-Rathlou, S., Petersen, N. C., & Nedergaard, M. (2018). Voluntary running enhances glymphatic influx in awake behaving, young mice. Neuroscience letters, 662, 253–258. https://doi.org/10.1016/j.neulet.2017.10.035
 
-
-
-Slide 3 - Bohr, T., Hjorth, P. G., Holst, S. C., Hrabětová, S., Kiviniemi, V., Lilius, T., Lundgaard, I., Mardal, K. A., Martens, E. A., Mori, Y., Nägerl, U. V., Nicholson, C., Tannenbaum, A., Thomas, J. H., Tithof, J., Benveniste, H., Iliff, J. J., Kelley, D. H., & Nedergaard, M. (2022). The glymphatic system: Current understanding and modeling. iScience, 25(9), 104987. https://doi.org/10.1016/j.isci.2022.104987
-Slide 4 - gettyimages, credited in slide
-
-https://pdf.sciencedirectassets.com/318494/1-s2.0-S2589004222X00096/1-s2.0-S2589004222012597/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFMaCXVzLWVhc3QtMSJIMEYCIQD6bRzsiVHCvyNL8RZRt6ZOSa2ScQQBLcdPY%2Fb8alcCvQIhAN6Qz92HlMI7zz19ja%2FFLrU5Wt2KhTSRGdmV7TtNnzA9KrMFCFwQBRoMMDU5MDAzNTQ2ODY1IgxC38oE2lNKQnXoTsYqkAXuqzr4miqT4QvtIckUqokm99IXggPGW5h2KJMcCY40Nh8U2O1v4IKAeNYfC0fsqy%2FZFXpxZYaIM5kFkOFfCmNLUiFK0JqlvP%2Bn6C97UjGEBkm4iSjHLA3fmyIV5h%2FXe4V43mwwqMTdy1pJw7aud2jr9dnzCLNjLVoCTRCvWNNTnYjOc%2Fl5y%2F1l2OwQv9N2ObzwLqj8I38kiQLExEyEewQGAmv493mdlpmk4NV7k3Po52XgSs0YN9WnVJ5QZTL5U5jXVKfke8OCO9%2FX9zp3jtJYLQesE7Ngw1FsZbtUvZgSe5ddcl0kLh6QUfopiwubCDny%2BqPWilaRsW6jaFavxNJfout6cQIcIgRBcwgc5xytfY7Y1Daw1DP57d7g9DUiOgnd%2B4C9JcGPV245NFTwXW%2FGTwZUp3M9HbzGxhGSQ9ZdUK3KyIyopEwq7ATe%2Ft6KMF42uEuBAnvIhXwc6hAnSmvRFh5Jt%2FnOaXsB6MgkT%2BHKppcQ9Zo99mOTouyVCSCBlW3ImYDc9%2B9%2BVVx3HqOkzjWdmo5dfGybqD%2FMUSvA9v2E9oaYjpN1vs1mt%2Bgm2tFQ1p%2FnUrplYRkyeXOL6v%2BT%2BPpONX7DE6hUPlNEbzyQWLC4K35laGVM1PQGUB9cgcPHzHSUjyE6IWQydeQHvdb4NEDxc34cie03Ph%2FPIWIlr6NSEqdjNsEpEWrHU7R77oiV0h5y%2BSrIkaj7DH1t2a6Mq7Otaw11Fp9u%2FYUerL3110NdOdMM7M2PAZ%2FWyQGrwKD1qU7%2BgmWH59pZRZbi7Sacql5WBItLAFkRFclYY0urxTNRoG6FzzLXN5S2CgfL8hlT3OWAPETqhjTGEwkl%2B0%2F%2B4g2aM5z8S8mqWGGUaccVqwXzCTCq6ZG2BjqwAciY4VW5gwypvYP6VISxBaCerVVDFLr4rw%2FnxwdAPXPpxkrJ2iuRyHQc4VHsDZP%2F4f6ruiqsrLrDEsjPcnge%2FEq5gF1WvKN7XxZj5pi1ZrzMcDvqgDPagDbOm7mxfoEfrUMz2Rj%2F7i5Z0JsxYKfKHqsOa3daVlXZkWpuEOvZXlVvx4BLEYm2%2BOhTgP8%2Bx%2BWEZ0dtFBjeFiaGOu3%2BIdq4i1FiasWmxsi1zuxjqd9UicTl&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240820T120816Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4SJAFU65%2F20240820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=96f44769722cf899bed80f070d4d99e42124bc1d7e7dd99630ee0f07ba9f0063&hash=af6bc3de2532103d8ccc46b6801da00f04299e14be825d4d8adfeb2c99acf3e7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2589004222012597&tid=spdf-5b61fa9e-35e2-4bc6-952e-81fde2864c93&sid=7c26ba2135037047541ac1f138d62c9f2595gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=01025d07515251565706&rr=8b62448d39703662&cc=de
-
-Biology of fatigue – https://watermark.silverchair.com/zsad069.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1UwggNRBgkqhkiG9w0BBwagggNCMIIDPgIBADCCAzcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMccJpepCWs1eR-B-3AgEQgIIDCFgv8AGdNcFNqTO0tfG-rhukbF1DdJQYJoyHrfQ7QqHAYDrCM_4hhUlHlBIKX9IEmcMyXCa3mHddne-6Qag_fXiOSD49E8JA-2kzTevt5JoK2_4CT6RgQy0o_wMUrSks242Tdx3yCs11FHXF-cjPCUDU1WXefUKyDc3XpqQG8fibpcnl08RA4dpOjJILa6qQ7b2aQhDD3aFCcFguUePiGsKt8jyEVOUqyS0UCDlO18OXZfjuThTwouCafHjM53UPjKlENRKbcjEfUnR4L4vT03PIlh4bopdempQAHvv1CRKNU8Xa4Tsls6sEr4jNywRN5dQLL6QVZG0QYD-mdimJgM1ft-Bney9XRsHmCMMlQPdcTd4AG7preB6aaqtK81a7ZcV0eER2oK8SkuYzM3o8BdTxQXI_JhhC1yggwBH6ecGiyG6d7JfTaCF5xuUcaSrToqRHrFlnpxoi8a-1pkzS6hM-RjMV54u_pL1oh5uDzMH3UBScyqkGExJ5NenpYNwA3LBKbNOQyid56bbPCoqHZcaHe2orKIP0VxYDpeXeHY1wV6qvxz3vgDb0w9AOWqLrmc3_r_Zd46DGbAlP8GY2o-31EfzSbUFFwE3fBmtscXi0Ies-9-YNut12yYbaA0soHjfa4Qm5Q8OYDb7SCakQ4gKStEW3zUPXAm2hUBe7dBoRk1lv-DX3FAUQ2gXBBLYuGwZwN7aAfl5arBvty9ljEbxc8cZWsrj5BFG6xfI0PWbjoZT5GCAa9bw5PejDPUVqUZuACF2rhPNnKWSG641Fixrhu50ktZ7hWtISKSsMZ8XQtvgOy52ijq-AwXukEjcl0lVJQeXUwObIvy9Bicw-5jfMrxWNczp_DzSf4MZNhNQkfQtqS9Jr8_Y91ftgOPNtHeUSeFeCTwROycqaQnkYyKITbxuJ_0bQuw0Z9rn1bSyz6VM7jI-iUW3HPgTTUbT-HSyP8xRDxcD-4ahCL52VVrIdZVP1pHp_kf92PBL-kNmAJ8U4i_API_R9faoDGQ9VjFueaQ4AhXHT
-
-Restoring age-impaired – https://www.nature.com/articles/s43587-024-00691-3
-
-Efflux pathways – https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.28645
-
-https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(18)30318-1/abstract
-
-
-2021 review
-https://www.jneurosci.org/content/jneuro/41/37/7698.full.pdf
-
-Really good 2022 review
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8897154/
-
-
-
-GOOD NOT PEER REVIEWED CITATOIN, MAKE APA
-
- Glymphatic clearance is enhanced during sleep
-Erik Kroesbergen, Laurence V. Riesselmann, Ryszard S. Gomolka, Virginia Plá, Tina Esmail, Visti H. Stenmo, E. Rebeka Kovács, Elise S. Nielsen, Steven A. Goldman, Maiken Nedergaard, Pia Weikop, Yuki Mori
-bioRxiv 2024.08.24.609514; doi: https://doi.org/10.1101/2024.08.24.609514
