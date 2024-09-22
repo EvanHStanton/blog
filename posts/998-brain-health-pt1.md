@@ -27,11 +27,11 @@ A lot happens when we sleep, for example memory allocation (Brodt et al., 2023),
 
 Fun fact: every night when we sleep, the brain washes itself of its naturally-occurring metabolic byproducts (Hablitz et al., 2020; Kroesbergen et al., 2024).
 
-You see, the brain (cerebal) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (Jessen et al., 2015).
+You see, the brain (cerebral) and spinal cord are bathed in a fluid aptly named the cerebrospinal fluid. It travels alongside the arteries, into the brain tissue, and eventually out of that space and processed by the rest of the body. These phenomena are collectively known as the Glymphatic System and has applications in aging, Alzheimer's disease, traumatic brain injury, and more (Jessen et al., 2015).
 
 This is by no means a stagnant system. Indeed, there are many things that either help or hurt it. Here’s a non-exhaustive list: 
 
-| Good for Clearnace                                            | Bad for Clearance                                         |
+| Good for Clearance                                            | Bad for Clearance                                         |
 | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Sleep                                                         | Sleep fragmentation (Chong et al., 2022)                  |
 | Exercise (von Holstein-Rathlou, Petersen, & Nedergaard, 2018) | Chronic stress (reviewed by Hablitz and Nedergaard, 2021) |
