@@ -4,11 +4,17 @@ This was our first, inagural event, and what a success it was! Up front, we woul
 
 It's also important to extend a special thanks to the individuals who helped make this event possible:
 - [Daria Aleshkova](https://www.linkedin.com/in/aleshkova-daria-4480422/) -- for her support as co-organizer and for coordinating the venue; it wouldn't have been possible without her.
+
 - [Ludwig Adam](https://www.linkedin.com/in/ludwigadam/) -- for his support as co-organizer.
+
 - [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/) -- for her help in orchestrating the creation of this Meetup Group.
+
 - [Andreas Scherbaum](https://www.linkedin.com/in/andreas-scherbaum-87b6663/) -- for his incredible mentorship.
+
 - [Floor Drees](https://www.linkedin.com/in/floordrees/) -- for her incredible mentorship.
+
 - [Aychin Gasimov](https://www.linkedin.com/in/aychingasimov/) -- for his role as speaker and technical support.
+
 - [Peter Farkas](https://www.linkedin.com/in/farkasp/) -- for his role as speaker.
 
 # Contents
@@ -74,4 +80,6 @@ This was a great first event and I'm really looking forward to the next one!
 
 #### Stay in touch
 
-If you'd like to have a conversation, consider reaching out. My name is [Evan Stanton](https://www.linkedin.com/in/evan-hunter-stanton/) and I'm always happy to connect.
+If you'd like to have a conversation, consider reaching out. 
+
+My name is [Evan Stanton](https://www.linkedin.com/in/evan-hunter-stanton/) and I'm always happy to connect.
