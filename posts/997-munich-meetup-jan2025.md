@@ -3,6 +3,7 @@
 This was our first, inagural event, and what a success it was! Up front, we would like to extend our appreciation to Amazon Web Services (AWS), who generously hosted and sponsored this event! 
 
 It's also important to extend a special thanks to the individuals who helped make this event possible:
+
 - [Daria Aleshkova](https://www.linkedin.com/in/aleshkova-daria-4480422/) -- for her support as co-organizer and for coordinating the venue; it wouldn't have been possible without her.
 
 - [Ludwig Adam](https://www.linkedin.com/in/ludwigadam/) -- for his support as co-organizer.
