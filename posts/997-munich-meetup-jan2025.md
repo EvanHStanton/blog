@@ -10,7 +10,7 @@ It's also important to extend a special thanks to the individuals who helped mak
 
 - [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/) -- for her help in orchestrating the creation of this Meetup Group.
 
-- [Andreas Scherbaum](https://www.linkedin.com/in/andreas-scherbaum-87b6663/) -- for his incredible mentorship.
+- [Andreas Scherbaum](https://www.linkedin.com/in/andreas-scherbaum-87b6663/) -- for his incredible mentorship and help in orchestrating the creation of this Meetup Group.
 
 - [Floor Drees](https://www.linkedin.com/in/floordrees/) -- for her incredible mentorship.
 
