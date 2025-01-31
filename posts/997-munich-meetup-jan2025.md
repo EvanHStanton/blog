@@ -54,7 +54,7 @@ Aychin gave a nice overview of the new features in the major release 17 of Postg
 
 - Talk title: FerretDB 2.0, and a step towards a new open standard for Document Databases
 - Speaker affiliation: [FerretDB](https://www.ferretdb.com/), CEO
-- Slides TBD
+- [Slides for this presentation](https://github.com/EvanHStanton/evanhstanton.github.io/blob/master/public/postgres_munich.pdf)
 
 Peter closed the evening with a nice history of SQL and the founding of FerretDB. Their central thesis, as I understand it, is that Postgres (free and open source) can be just as performant in document-oriented operations as proprietary options. From there, he transitioned into the exciting release of FerretDB 2.0, which I found particularly interesting, as I was hands-on with v1.
 
