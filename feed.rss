@@ -9,14 +9,14 @@
   <title><![CDATA[ PostgreSQL Munich Meetup January 2025 ]]></title>
   <link>https://evanhstanton.github.io/munich-meetup-jan2025</link>
   <guid isPermaLink="false">bic_uQe2YK1rnl0MGUW7ijVZhayOLJDN</guid>
-  <pubDate>Fri, 31 Jan 2025 15:53:44 +0000</pubDate>
+  <pubDate>Fri, 31 Jan 2025 16:15:37 +0000</pubDate>
   <description><![CDATA[ <p>This was our first, inagural event, and what a success it was! Up front, we would like to extend our appreciation to Amazon Web Services (AWS), who generously hosted and sponsored this event!</p>
 <p>It’s also important to extend a special thanks to the individuals who helped make this event possible:</p>
 <ul>
 <li><p><a href="https://www.linkedin.com/in/aleshkova-daria-4480422/">Daria Aleshkova</a> – for her support as co-organizer and for coordinating the venue; it wouldn’t have been possible without her.</p></li>
 <li><p><a href="https://www.linkedin.com/in/ludwigadam/">Ludwig Adam</a> – for his support as co-organizer.</p></li>
 <li><p><a href="https://www.linkedin.com/in/valeriakaplan/">Valeria Kaplan</a> – for her help in orchestrating the creation of this Meetup Group.</p></li>
-<li><p><a href="https://www.linkedin.com/in/andreas-scherbaum-87b6663/">Andreas Scherbaum</a> – for his incredible mentorship.</p></li>
+<li><p><a href="https://www.linkedin.com/in/andreas-scherbaum-87b6663/">Andreas Scherbaum</a> – for his incredible mentorship and help in orchestrating the creation of this Meetup Group.</p></li>
 <li><p><a href="https://www.linkedin.com/in/floordrees/">Floor Drees</a> – for her incredible mentorship.</p></li>
 <li><p><a href="https://www.linkedin.com/in/aychingasimov/">Aychin Gasimov</a> – for his role as speaker and technical support.</p></li>
 <li><p><a href="https://www.linkedin.com/in/farkasp/">Peter Farkas</a> – for his role as speaker.</p></li>
@@ -49,7 +49,7 @@
 <ul>
 <li>Talk title: FerretDB 2.0, and a step towards a new open standard for Document Databases</li>
 <li>Speaker affiliation: <a href="https://www.ferretdb.com/">FerretDB</a>, CEO</li>
-<li><a href="https://github.com/EvanHStanton/evanhstanton.github.io/blob/master/public/postgres_munich.pdf">Slides for this presentation</a></li>
+<li><a href="https://github.com/EvanHStanton/evanhstanton.github.io/blob/main/public/postgres_munich.pdf">Slides for this presentation</a></li>
 </ul>
 <p>Peter closed the evening with a nice history of SQL and the founding of FerretDB. Their central thesis, as I understand it, is that Postgres (free and open source) can be just as performant in document-oriented operations as proprietary options. From there, he transitioned into the exciting release of FerretDB 2.0, which I found particularly interesting, as I was hands-on with v1.</p>
 <h1 id="getting-involved">Getting involved</h1>
