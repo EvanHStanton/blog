@@ -65,8 +65,11 @@ Peter closed the evening with a nice history of SQL and the founding of FerretDB
 If you or a friend are interested in speaking on a Postgres-related subject, do consider reaching out! Moreover, if your company is interested in hosting an event, please contact a member of the [Organizational Team](https://www.meetup.com/postgresql-meetup-munich/members/?op=leaders).
 
 A Meetup event can be a great opportunity to:
+
 - practice a talk in front of a smaller group, leading up to a conference
+
 - hear community feedback
+
 - share a unique story or perspective
 
 # Closing thoughts
