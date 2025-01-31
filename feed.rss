@@ -6,6 +6,59 @@
     <atom:link href="https://evanhstanton.github.io/feed.rss" rel="self" type="application/rss+xml"/>
     <description><![CDATA[ The feed of updates to Evan&#39;s Blog ]]></description>
     <item>
+  <title><![CDATA[ PostgreSQL Munich Meetup January 2025 ]]></title>
+  <link>https://evanhstanton.github.io/munich-meetup-jan2025</link>
+  <guid isPermaLink="false">bic_uQe2YK1rnl0MGUW7ijVZhayOLJDN</guid>
+  <pubDate>Fri, 31 Jan 2025 14:44:45 +0000</pubDate>
+  <description><![CDATA[ <p>This was our first, inagural event, and what a success it was! Up front, we would like to extend our appreciation to Amazon Web Services (AWS), who generously hosted and sponsored this event!</p>
+<p>It’s also important to extend a special thanks to the individuals who helped make this event possible: - <a href="https://www.linkedin.com/in/aleshkova-daria-4480422/">Daria Aleshkova</a> – for her support as co-organizer and for coordinating the venue; it wouldn’t have been possible without her. - <a href="https://www.linkedin.com/in/ludwigadam/">Ludwig Adam</a> – for his support as co-organizer. - <a href="https://www.linkedin.com/in/valeriakaplan/">Valeria Kaplan</a> – for her help in orchestrating the creation of this Meetup Group. - <a href="https://www.linkedin.com/in/andreas-scherbaum-87b6663/">Andreas Scherbaum</a> – for his incredible mentorship. - <a href="https://www.linkedin.com/in/floordrees/">Floor Drees</a> – for her incredible mentorship. - <a href="https://www.linkedin.com/in/aychingasimov/">Aychin Gasimov</a> – for his role as speaker and technical support. - <a href="https://www.linkedin.com/in/farkasp/">Peter Farkas</a> – for his role as speaker.</p>
+<h1 id="contents">Contents</h1>
+<ul>
+<li><a href="#initial-thoughts">Initial thoughts</a></li>
+<li><a href="#aychin-gasimov">Aychin Gasimov - What’s new in PostgreSQL 17</a></li>
+<li><a href="#peter-farkas">Peter Farkas: FerretDB 2.0, and a step towards a new open standard for Document Databases</a></li>
+<li><a href="#getting-involved">Getting involved</a></li>
+<li><a href="#closing-thoughts">Closing thoughts</a></li>
+</ul>
+<h1 id="initial-thoughts">Initial thoughts</h1>
+<p><strong>57 RSVP – 30 actual attendees (52.6%, not bad at all!)</strong></p>
+<p>Going into this event, I tried to be conscious about finding the balance with a few points: - keeping this a low-key meetup versus a more professional event; - socializing and networking versus hosting and administration.</p>
+<p>Looking back, I feel as though a nice harmony was found, though I include my thoughts on improvement within the <a href="#closing-thoughts">closing thoughts</a>.</p>
+<p>With regards to the speakers, I personally loved that we experienced two sides of a spectrum; on one side we learned about Postgres internals, while on the other side, more of an ecosystem-wide conversation.</p>
+<p>The audience was very engaged, and comprised a mixture of professionals and those much newer to Postgres.</p>
+<blockquote>
+<p>I really feel that success in life can be distilled down to one word: exposure.</p>
+</blockquote>
+<h1 id="aychin-gasimov">Aychin Gasimov</h1>
+<ul>
+<li>Talk title: What’s new in PostgreSQL 17</li>
+<li>Speaker affiliation: <a href="https://aws.amazon.com/">AWS</a>, Senior Partner Solutions Architect</li>
+<li><a href="https://docs.google.com/presentation/d/10i6NWnRN5bCWclmUw4kUowYtuy6Z6ccu/edit?pli=1#slide=id.p1">Slides for this presentation</a></li>
+</ul>
+<p>Aychin gave a nice overview of the new features in the major release 17 of Postgres. I personally found some of the points on event triggers to be surprising. Specifically, as I understand it, that <a href="https://www.postgresql.org/docs/17/event-trigger-database-login-example.html">login event triggers</a> didn’t exist prior to this major release! Here are the <a href="https://www.postgresql.org/docs/17/release-17.html">official release notes</a> if you’re interested in learning more.</p>
+<h1 id="peter-farkas">Peter Farkas</h1>
+<ul>
+<li>Talk title: FerretDB 2.0, and a step towards a new open standard for Document Databases</li>
+<li>Speaker affiliation: <a href="https://www.ferretdb.com/">FerretDB</a>, CEO</li>
+<li>Slides TBD</li>
+</ul>
+<p>Peter closed the evening with a nice history of SQL and the founding of FerretDB. Their central thesis, as I understand it, is that Postgres (free and open source) can be just as performant in document-oriented operations as proprietary options. From there, he transitioned into the exciting release of FerretDB 2.0, which I found particularly interesting, as I was hands-on with v1.</p>
+<h1 id="getting-involved">Getting involved</h1>
+<p><a href="https://www.meetup.com/postgresql-meetup-munich/">PostgreSQL Meetup Munich</a> is always looking for speakers and venues.</p>
+<p>If you or a friend are interested in speaking on a Postgres-related subject, do consider reaching out! Moreover, if your company is interested in hosting an event, please contact a member of the <a href="https://www.meetup.com/postgresql-meetup-munich/members/?op=leaders">Organizational Team</a>.</p>
+<p>A Meetup event can be a great opportunity to: - practice a talk in front of a smaller group, leading up to a conference - hear community feedback - share a unique story or perspective</p>
+<h1 id="closing-thoughts">Closing thoughts</h1>
+<p>This was a great first event and I’m really looking forward to the next one!</p>
+<h4 id="reflections-for-next-time">Reflections for next time:</h4>
+<ul>
+<li>Include more details on directions to the venue, including parking, for those who arrive by car.</li>
+<li>Create more Meetup-group specific social media accounts to consider those who might prefer different platforms.</li>
+<li>Increase organization related to event promotion.</li>
+</ul>
+<h4 id="stay-in-touch">Stay in touch</h4>
+<p>If you’d like to have a conversation, consider reaching out. My name is <a href="https://www.linkedin.com/in/evan-hunter-stanton/">Evan Stanton</a> and I’m always happy to connect.</p> ]]></description>
+</item>
+<item>
   <title><![CDATA[ Brain Health ]]></title>
   <link>https://evanhstanton.github.io/brain-health-pt1</link>
   <guid isPermaLink="false">bic_OzhJLhNcSbfeDK7HiYmCBA89yxzg</guid>
